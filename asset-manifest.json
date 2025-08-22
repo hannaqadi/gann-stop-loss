@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gann-stop-loss/static/css/main.59d9e7d7.css",
+    "main.js": "/gann-stop-loss/static/js/main.b1c84701.js",
+    "static/js/453.e0433e18.chunk.js": "/gann-stop-loss/static/js/453.e0433e18.chunk.js",
+    "index.html": "/gann-stop-loss/index.html",
+    "main.59d9e7d7.css.map": "/gann-stop-loss/static/css/main.59d9e7d7.css.map",
+    "main.b1c84701.js.map": "/gann-stop-loss/static/js/main.b1c84701.js.map",
+    "453.e0433e18.chunk.js.map": "/gann-stop-loss/static/js/453.e0433e18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59d9e7d7.css",
+    "static/js/main.b1c84701.js"
+  ]
+}
